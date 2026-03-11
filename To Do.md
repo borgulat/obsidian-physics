@@ -1,0 +1,15 @@
+- *(done)* SM renormalization
+	- *(done)* running couplings
+	- *(done)* Running $\alpha_s$ with different quark numbers
+- *(done)* Values of SM parameters
+- *(done) BRST and Renormalization of composite operators
+- *(done)* Muon g-2
+	- *(done)* Hadronic vacuum polarization
+- *(done)* Adler function
+- *(done)* Splitting function
+- *(done)* PDFs
+- *(done)* Structure functions
+- *(done)* How to get mass from Decay Width (Breit-Wigner function?)
+- *(done) SCET
+- *(done)* Vortrag
+- *(done)* Go through thesis again

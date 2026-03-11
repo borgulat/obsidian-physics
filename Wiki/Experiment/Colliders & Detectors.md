@@ -104,7 +104,7 @@ Going from the beam to the outside:
 For forward-scattering:
 - **Preshower:**
 	- Lead and silicon strip detector
-	- Sits before the endcaos and allow distinction of interesting single high-energy photons and less interesting pairs of low-energy photons
+	- Sits before the endcaps and allow distinction of interesting single high-energy photons and less interesting pairs of low-energy photons
 		- Most photons come from well-understood $\pi^0\rightarrow\gamma\gamma$
 			- The two photons are usually close to each other and can be distinguished from the single photon by the preshower detector
 		- Single high-energy photons come from heavy particle decay (like Higgs or BSM particles) or early fundamental interactions (e.g. radiated from a quark directly)

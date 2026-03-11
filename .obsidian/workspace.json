@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2e114f6703a0521c",
+        "id": "e675f9d22c0e8c8c",
         "type": "tabs",
         "children": [
           {
-            "id": "79e3e0b8dd662d19",
+            "id": "ee19945cb0dc6035",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wiki/Literature/CMDM.md",
+                "file": "Wiki/Theory/CEDM, CMDM, Kaon mixing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CMDM"
+              "title": "CEDM, CMDM, Kaon mixing"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.50390243530273
+    "width": 200
   },
   "right": {
     "id": "42d046b1156704fe",
@@ -180,30 +180,44 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "79e3e0b8dd662d19",
+  "active": "ee19945cb0dc6035",
   "lastOpenFiles": [
-    "Pasted image 20260301213257.png",
-    "images/Pasted image 20260301211056.png",
-    "images/Pasted image 20260301210634.png",
-    "images/Pasted image 20260301164306.png",
-    "images/Pasted image 20260301151827.png",
-    "images/Pasted image 20260224171124.png",
-    "images/Pasted image 20260224123612.png",
-    "Wiki/Literature/CMDM.md",
-    "Wiki/Theory/Quantum MDM and EDM.md",
-    "Wiki/Theory/CP violation in the Standard Model.md",
+    "Wiki/Theory/Muon g-2.md",
+    "Wiki/Theory/Standard Model.md",
+    "Wiki/Experiment/Colliders & Detectors.md",
+    "Wiki/Theory/Types of scattering.md",
+    "Wiki/Theory/Other stuff, Adler function, SCET, Renormalons.md",
+    "Wiki/Theory/Gradient Flow.md",
     "Wiki/Theory/Classical MDM and EDM.md",
-    "Pasted image 20260301150655.png",
+    "Wiki/Theory/CEDM, CMDM, Kaon mixing.md",
+    "Wiki/General/Possible questions not covered anywhere else.md",
+    "Wiki/General/Nobelpreise.md",
+    "Wiki/General/Comittee.md",
+    "To Do.md",
     "Wiki/Literature/Citations in my Thesis.md",
+    "Wiki/Experiment/LHC Processes.md",
+    "Wiki/Theory/Discrete Symmetries.md",
+    "Pasted image 20260308120443.png",
+    "Wiki/Theory/BRST and Renormalization.md",
+    "images/Pasted image 20260306153031.png",
+    "images/Pasted image 20260306183123.png",
+    "images/Pasted image 20260306182642.png",
+    "images/Pasted image 20260306182547.png",
+    "images/Pasted image 20260306182535.png",
+    "images/Pasted image 20260306182524.png",
+    "Wiki/Theory/Perturbative QCD.md",
+    "images/Pasted image 20260306154607.png",
+    "images/Pasted image 20260306154543.png",
+    "images/Pasted image 20260306153112.png",
+    "old notes/Quantum MDM and EDM.md",
+    "old notes",
+    "Wiki/Theory/CP violation in the Standard Model.md",
+    "Organisation/Zeitplan.md",
     "Talk/Cheat sheet.md",
     "Talk/Notes.md",
     "Wiki/Literature",
     "().md",
-    "Wiki/Experiment/LHC Processes.md",
-    "Wiki/Experiment/Colliders & Detectors.md",
     "images",
-    "Organisation/Zeitplan.md",
-    "Wiki/General/Nobelpreise.md",
     "Wiki/General",
     "Wiki/Theory",
     "Wiki/Experiment",
