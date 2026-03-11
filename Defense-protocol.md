@@ -31,3 +31,73 @@ Stahl was last:
 - Notably, he did not ask me anything about nobel prices (as he used to do) or stuff not related to my thesis.
 
 I hope that this helps you. I was very nervous about the defense (in particular as someone suffering from social anxiety), but it was much more relaxed and kind than I imagined (it seemed more like a formality before confirming the PhD instead of an interrogation). I whish you all the best for your PhD and the defense. You will succeed for sure!
+
+
+## Polished version
+
+Hi all,
+
+as it is a tradition to share the questions asked by the examiners during the defense with the current PhD students, here is an (almost complete) record of what they asked me. Some general information beforehand: I handed in my thesis in October and could start looking for a defense date in mid-January. I eventually found one in March, so expect the defense to take place several months after handing in the thesis. This is worth keeping in mind when planning time for preparation; I took three to four weeks off for this.
+
+My committee consisted of Prof. Harlander (my supervisor), Prof. Czakon (second supervisor), Prof. Stahl (head of the committee), and Prof. Feld. I chose Stahl in particular because I knew he was an expert on EDMs and expected him to ask questions on this topic that I could prepare for (which he did).
+
+In general, the committee members were really nice even when I failed to answer some very basic questions. Except for Prof. Feld, they also only asked questions closely related to my thesis (or even directly answered in it). My thesis was about the Gradient Flow applied to the chromomagnetic dipole operator and the Standard Model.
+
+My defense was in German, so I translate and shorten the questions accordingly. Each of the committee members had 10 minutes for questions.
+
+**First was Robert:**
+
+- _Gradient Flow is closely related to renormalization. When is a theory renormalizable?_  
+    → I said that you construct a Lagrangian from a field content and symmetries, and renormalizability depends on the mass dimension of the couplings. Operators of dimension >4 are still technically renormalizable, but require infinitely many counterterms.
+    
+- _How do you prove renormalizability of QED, for example?_  
+    → Here I struggled a bit, but he gently directed me in the right direction until I remembered the answer: you calculate the lowest-order Green’s functions (0-point, 1-point, …, 4-point) and show that they are finite using symmetry arguments and the superficial degree of divergence. Then all higher diagrams only contain subdivergences of this form, etc.
+    
+- _How does the Gradient Flow affect this?_  
+    → It essentially replaces dimensional regularization for UV divergences; IR divergences remain unchanged.
+    
+- _How is the flow equation related to the Langevin equation?_  
+    → In the Langevin equation there is an additional stochastic term representing field fluctuations. I added some details about the history of the Gradient Flow and mentioned some of the first papers from the 1980s.
+    
+
+**Then it was Czakon’s turn:**
+
+- _You did not show us the full flow equation in your talk. Could you write down the missing term?_  
+    → I wrote down the gauge-fixing term.
+    
+- _What is the relevance of this?_  
+    → I struggled a bit to write down the gauge transformation that eliminates this term, but he was not that interested in this. I then explained that the term suppresses transversal momenta of flowed gauge fields and must be kept in calculations even though it drops out in the end.
+
+- *Can you do the same for this question that I forgot to include?*
+	→ Why is the flowed gluon the only field that requires renormalization? -> I was confused at first, but he corrected that he meant why it does not require renormalization. I tried to draw a diagram for an intuitive explanation but could not remember the line of arguments, so I just argued that counter-terms for the flowed gluon are prohibited by flowed BRST symmetry, but allowed for fermions and scalars and wrote down the counter-term Lagrangian.
+
+- _You wrote about CP violation and applications of the chromomagnetic dipole operator in your thesis. Could you explain this in more detail?_  
+    → I talked a bit about direct and indirect CP violation in kaon oscillations and decay, and wrote down how the CMDM emerges from a penguin diagram in a kaon process.
+    
+
+**Feld hit a weak spot:**
+
+- _How many generations of fermions are there?_  
+    → Three.
+    
+- _How do you measure this?_  
+    → I had no clue. I knew that it can be measured and I drew a (Z \to q\bar q) diagram, but he then led me to replace the quarks by neutrinos. I sketched the decay-width plot for the Z boson and he asked me how this is related to Z decay. I mentioned the optical theorem, which relates the decay width to the total decay amplitude, but this was about all I could say and we used up the full 10 minutes on this question. It made me so nervous that I forgot whether the Z boson even couples to neutrinos. In the end, I could not really answer the question and gave some answers which were plainly wrong.
+
+
+**Stahl was last:**
+
+- _Can you explain how the nEDM is measured?_  
+    → This is what I expected, so I explained how neutrons are cooled in the TUCAN experiment at TRIUMF and how the measurement works.
+    
+- _Are there any benefits to using neutrons instead of protons, for example?_  
+    → Protons are charged, so you cannot apply a strong electric field.
+    
+- _Are there benefits for protons as well?_  
+    → I thought about this for quite a while but could not find any. We discussed some ideas, but in the end the main point was that free neutrons are unstable.
+    
+- Notably, he did not ask me anything about Nobel prizes (as he apparently used to do) or about topics unrelated to my thesis.
+    
+
+I hope that this helps you. I was very nervous about the defense (especially as someone suffering from social anxiety disorder), but it was much more relaxed and friendly than I had imagined. It felt more like a formality before confirming the PhD than an interrogation.
+
+I wish you all the best for your PhD and the defense. You will succeed for sure!
